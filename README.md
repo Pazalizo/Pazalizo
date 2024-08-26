@@ -1,4 +1,4 @@
-## Hi there 👋, Im Felipe
+## Hi there 👋, Im Felipe Huertas
 
 <!--
 **Pazalizo/Pazalizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
